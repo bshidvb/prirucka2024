@@ -1,0 +1,17 @@
+"Can you explain what does Initial Mass Function do?"
+The IMF, or Initial Mass Function, is a mathematical expression that describes the distribution of masses for a population of stars at the time of their formation. It is fundamental in understanding how stars of different masses are formed from the mass reservoir available in molecular clouds. The IMF is important for studying stellar evolution, galaxy formation, and the overall dynamics of the universe.
+
+"Can you tell me a fact about IMF?"
+The Initial Mass Function (IMF) is of fundamental importance because it describes the distribution of masses for a population of stars, and its shape is reasonably well understood from low-mass brown dwarfs to very massive stars.
+
+"How does galaxy-wide IMF look like?"
+The galaxy-wide IMF (Integrated Galactic Initial Mass Function) is described as the sum of all the stellar IMFs in all star formation events (CSFEs) formed over a specific time span. It has been suggested that this galaxy-wide IMF may be identical to the canonical stellar IMF, indicating that small groups of stars formed in clusters would exhibit similar mass distributions. However, there is an alternative approach that considers the possibility that the galaxy-wide IMF differs from the stellar IMF, suggesting variations based on different star formation conditions. The context also mentions the Galactic-field IMF, which is specifically applicable to the Milky Way.
+
+"When was first IMF constructed and by whom?"
+The first IMF was constructed by Zinnecker in 1984.
+
+"Who is Salpeter?"
+Salpeter refers to Edwin E. Salpeter, an astrophysicist known for his work on stellar populations and the initial mass function (IMF) of stars. He formulated the "Salpeter IMF," which describes the distribution of masses for a population of stars. His seminal contribution was made in 1955.
+
+"What is a galaxy?"
+I don't know.
